@@ -1,4 +1,4 @@
-//MainActivity.xml
+//MainActivity.java
     package com.example.appmy;
     import android.content.Intent;
     import androidx.appcompat.app.AppCompatActivity;
@@ -24,7 +24,7 @@
     startActivity(intent);
     }
     }
-//Appmy2.xml
+//Appmy2.java
     package com.example.appmy;
 
     import androidx.appcompat.app.AppCompatActivity;
